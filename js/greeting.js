@@ -1,3 +1,4 @@
+console.log(1)
 const frmLogin = document.querySelector("#frmLogin");
 const inputLogin = document.querySelector("#frmLogin input");
 const greeting = document.getElementById("greeting");
