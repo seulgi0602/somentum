@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>[모두의연구소]자바스크립트</title>
+    <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
     <p>안녕 자바스크립트</p>
+        <!-- 1. 로그인하기 -->
+        <form id="frmLogin" class="hidden">
+            <input required maxlength="19" type="text" placeholder="당신의 이름을 적어 주세요."/>
+            <input type="submit" value="Log In" />
+            </form>
+        
+            <h1 id="greeting" class="hidden"></h1>
     <script src="js/greeting.js"></script>
     <script src="js/background.js"></script>
     <script src="js/clock.js"></script>
