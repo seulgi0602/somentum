@@ -1,5 +1,5 @@
-
 /**
+ * 2023.11.23 시나버스 shinahverse.kr
  * 화면에 배경 랜덤으로 출력하기
  */
 
@@ -15,6 +15,9 @@ const bgImage = document.createElement("img");
 
 //만든 img요소의 경로를 지정한다.
 bgImage.src = `img/${selectedImage}`;
+
+//Image 라는 클래스 생성
+bgImage.classList.add("Image");
 
 //만든 요소를 문서에 붙인다.
 document.body.appendChild(bgImage);
