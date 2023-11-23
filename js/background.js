@@ -4,7 +4,7 @@
  */
 
 //이미지 저장하는 배열
-const images = ["wallpaper_20220526153633_2022June_ocean_2880x1800_W1.jpg", "wallpaper_20221130155635_fe77b864798640cdbc0bafa2b5e26442.jpg", "wallpaper_20230328144814_964ee60206da4a83bc68a481f361309a.jpg", "wallpaper_20231006101844_d78d946670884d689f7a399bcf6abe9a.jpg", "wallpaper_20231030154552_56a08844adbc49b981b256b8001e42d8.jpg", "06.jpg"];
+const images = ["wallpaper_20220526153633_2022June_ocean_2880x1800_W1.jpg", "wallpaper_20221130155635_fe77b864798640cdbc0bafa2b5e26442.jpg", "wallpaper_20230328144814_964ee60206da4a83bc68a481f361309a.jpg", "wallpaper_20231006101844_d78d946670884d689f7a399bcf6abe9a.jpg", "wallpaper_20231030154552_56a08844adbc49b981b256b8001e42d8.jpg", "집안.jpg"];
 //위의 코드에서 파일명은 자신이 갖고 있는 파일의 이름을 적는다.
 
 //화면에 출력할 이미지를 랜덤으로 선택한다.
