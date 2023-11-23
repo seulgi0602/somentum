@@ -4,46 +4,30 @@
  */
 const quotes = [
     {
-      quote: "The way to get started is to quit talking and begin doing.",
-      author: "Walt Disney",
+      quote: "노력한다고 항상 성공할 순 없지만 성공한 사람은 모두 노력했단 걸 알아둬.",
+      author: "<곰돌이 푸>",
     },
     {
-      quote: "Life is what happens when you're busy making other plans.",
-      author: "John Lennon",
+      quote: "아무도 걷지 않은 길을 가라 애초부터 삶이란 수학공식처럼 딱 맞아 떨어지지 않는다..",
+      author: "<스티브잡스>",
     },
     {
       quote:
-        "The world is a book and those who do not travel read only one page.",
-      author: "Saint Augustine",
+        "매일,매분,매초 인생을 바꿀 수 있는 기회가 있어.",
+      author: "<덤보>",
     },
     {
-      quote: "Life is either a daring adventure or nothing at all.",
-      author: "Helen Keller",
+      quote: "행복을 찾아 노력하는 것을 멈추어라, 그러면 정말 행복해질 수 있을것이다.",
+      author: "<에디스 와튼>",
     },
     {
-      quote: "To Travel is to Live",
-      author: "Hans Christian Andersen",
+      quote: "꿈을 품고 뭔가 할 수 있다면 그것을 시작하라. 새로운 일을 시작하는 용기속에 당신의 천재성과 능력과 기적이 모두 숨어있다",
+      author: "<괴테>",
     },
     {
-      quote: "Only a life lived for others is a life worthwhile.",
-      author: "Albert Einstein",
-    },
-    {
-      quote: "You only live once, but if you do it right, once is enough.",
-      author: "Mae West",
-    },
-    {
-      quote: "Never go on trips with anyone you do ntot love.",
-      author: "Hemmingway",
-    },
-    {
-      quote: "We wander for distraction, but we travel for fulfilment.",
-      author: "Hilaire Belloc",
-    },
-    {
-      quote: "Travel expands the mind and fills the gap.",
-      author: "Sheda Savage",
-    },
+      quote: "분노는 당신을 더 하찮게 만드는 반면, 용서는 당신을 예전보다 뛰어난 사람으로 성장하게 한다",
+      author: "셰리 카터 스콧>",
+    }
   ];
 
 //문서에 있는 quote에 있는 첫번째 span
